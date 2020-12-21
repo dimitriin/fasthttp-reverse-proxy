@@ -20,6 +20,8 @@ github.com/valyala/bytebufferpool v1.0.0/go.mod h1:6bBcMArwyJ5K/AmCkWv1jt77kVWyC
 github.com/valyala/fasthttp v1.4.0 h1:PuaTGZIw3mjYhhhbVbCQp8aciRZN9YdoB7MGX9Ko76A=
 github.com/valyala/fasthttp v1.4.0/go.mod h1:4vX61m6KN+xDduDNwXrhIAVZaZaZiQ1luJk8LWSxF3s=
 github.com/valyala/tcplisten v0.0.0-20161114210144-ceec8f93295a/go.mod h1:v3UYOV9WzVtRmSR+PDvWpU/qWl4Wa5LApYYX4ZtKbio=
+github.com/yeqown/fasthttp-reverse-proxy v0.0.0-20200930023507-ed73ac32bc64 h1:4dmnKp9YO5u6MACmB2p4FrEtDV8MNx438A9/N0kPIfg=
+github.com/yeqown/fasthttp-reverse-proxy v0.0.0-20200930023507-ed73ac32bc64/go.mod h1:hgX6t+JE03QfTU4mpF0ls1FJa+Y/49wcG7++6d6apu8=
 github.com/yeqown/log v1.0.3 h1:kWwBMytMSkYkr2fmi20PLgDuJNXkq3mOpVbfsTS1soI=
 github.com/yeqown/log v1.0.3/go.mod h1:RTslXFTg+8Uj5AizIxdfichvBZi/OOKao6yP3tMtTns=
 golang.org/x/net v0.0.0-20180911220305-26e67e76b6c3/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
